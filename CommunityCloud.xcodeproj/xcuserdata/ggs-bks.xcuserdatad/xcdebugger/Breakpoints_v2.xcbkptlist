@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6F39AD03-235D-4B04-8612-DD9E1A163D28"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6385F6D7-3CEF-44FF-9A71-192226472DFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Views/CreatePost.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6385F6D7-3CEF-44FF-9A71-192226472DFF - 46d1d4b0414a3867"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Menu&lt;SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.ShapeStyle, &#x3c4;_1_1: SwiftUI.InsettableShape&gt;(_: &#x3c4;_1_0, in: &#x3c4;_1_1, fillStyle: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in CommunityCloud.CreatePost.body.getter : some"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/basics_example/CommunityCloud/Views/CreatePost.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "6385F6D7-3CEF-44FF-9A71-192226472DFF - cb2cd7af2a4632f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Menu&lt;SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.ShapeStyle, &#x3c4;_1_1: SwiftUI.InsettableShape&gt;(_: &#x3c4;_1_0, in: &#x3c4;_1_1, fillStyle: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in CommunityCloud.CreatePost.body.getter : some"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/basics_example/CommunityCloud/Views/CreatePost.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "6385F6D7-3CEF-44FF-9A71-192226472DFF - 728357b9d55b092f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.Divider, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in CommunityCloud.CreatePost.body.getter : some"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/basics_example/CommunityCloud/Views/CreatePost.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "911">
+               </Location>
+               <Location
+                  uuid = "6385F6D7-3CEF-44FF-9A71-192226472DFF - a0f7094e3442502e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Menu&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.fontWeight(Swift.Optional&lt;SwiftUI.Font.Weight&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.Divider, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in CommunityCloud.CreatePost.body.getter : some"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/basics_example/CommunityCloud/Views/CreatePost.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "327">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AF29F4D-B7C6-4ECB-94FD-D5711F698758"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "deleteAccount()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2AF29F4D-B7C6-4ECB-94FD-D5711F698758 - f6a72d7d2e9afbd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CommunityCloud.ProfileView.deleteAccount() -&gt; ()"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/basics_example/CommunityCloud/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "2AF29F4D-B7C6-4ECB-94FD-D5711F698758 - a1c3d0998363bfd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CommunityCloud.ProfileView.deleteAccount() -&gt; ()"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/basics_example/CommunityCloud/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "2AF29F4D-B7C6-4ECB-94FD-D5711F698758 - 9c607ab5f94973cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CommunityCloud.ProfileView.deleteAccount() -&gt; ()"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/basics_example/CommunityCloud/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "2AF29F4D-B7C6-4ECB-94FD-D5711F698758 - 1a0f9c8550c18a5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CommunityCloud.ProfileView.deleteAccount() -&gt; ()"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/Projects/CommunityCloud/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "2AF29F4D-B7C6-4ECB-94FD-D5711F698758 - 4d6b6161fd38ce5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CommunityCloud.ProfileView.deleteAccount() -&gt; ()"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/Projects/CommunityCloud/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "2AF29F4D-B7C6-4ECB-94FD-D5711F698758 - 70c8cb4d87120240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CommunityCloud.ProfileView.deleteAccount() -&gt; ()"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/Projects/CommunityCloud/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D095CC39-D3D5-47E6-92EF-D5B019DAB735"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Components/CarPool/otherRides.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "CarPools()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D095CC39-D3D5-47E6-92EF-D5B019DAB735 - 3e10267f17c81f72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 () -&gt; () in closure #1 (CommunityCloud.CarPool) -&gt; CommunityCloud.CarPoolCard in CommunityCloud.otherRides.CarPools() -&gt; some"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/Projects/CommunityCloud/Components/CarPool/otherRides.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "D095CC39-D3D5-47E6-92EF-D5B019DAB735 - 926f881475212595"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CommunityCloud.CarPool) -&gt; Swift.Bool in closure #1 () -&gt; () in closure #2 () -&gt; () in closure #1 (CommunityCloud.CarPool) -&gt; CommunityCloud.CarPoolCard in CommunityCloud.otherRides.CarPools() -&gt; some"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/Projects/CommunityCloud/Components/CarPool/otherRides.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "D095CC39-D3D5-47E6-92EF-D5B019DAB735 - 3fda96520a11a641"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (CommunityCloud.CarPool) -&gt; CommunityCloud.CarPoolCard in CommunityCloud.otherRides.CarPools() -&gt; some"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/Projects/CommunityCloud/Components/CarPool/otherRides.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "270">
+               </Location>
+               <Location
+                  uuid = "D095CC39-D3D5-47E6-92EF-D5B019DAB735 - 3e10267f17c81f53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 () -&gt; () in closure #1 (CommunityCloud.CarPool) -&gt; CommunityCloud.CarPoolCard in CommunityCloud.otherRides.CarPools() -&gt; some"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/Projects/CommunityCloud/Components/CarPool/otherRides.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "D095CC39-D3D5-47E6-92EF-D5B019DAB735 - 3fda96520a11a641"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (CommunityCloud.CarPool) -&gt; CommunityCloud.CarPoolCard in CommunityCloud.otherRides.CarPools() -&gt; some"
+                  moduleName = "CommunityCloud"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Desktop/Projects/CommunityCloud/Components/CarPool/otherRides.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "322">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
